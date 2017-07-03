@@ -44,7 +44,8 @@ stegoping.py -d 192.168.1.5 -k snake -m helloworld
 ```
 
 ## Tips
-Remember you must run it with privileges.
+* Remember you must run it with privileges.
+* Sender/Receiver both have to use the same "key". It will be use for encryption and decryption.
 
 ## Limitations
 
